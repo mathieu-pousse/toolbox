@@ -1,4 +1,4 @@
 toolbox
 =======
 
-holds various tools for developpement
+holds various tools for development
